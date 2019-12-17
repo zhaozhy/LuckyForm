@@ -1,0 +1,35 @@
+C:\Users\hx-pc\Desktop\LuckyForm\Award\bin\Debug\Award.dll
+C:\Users\hx-pc\Desktop\LuckyForm\Award\bin\Debug\Award.pdb
+C:\Users\hx-pc\Desktop\LuckyForm\Award\obj\Debug\Award.csprojResolveAssemblyReference.cache
+C:\Users\hx-pc\Desktop\LuckyForm\Award\obj\Debug\Award.csproj.CoreCompileInputs.cache
+C:\Users\hx-pc\Desktop\LuckyForm\Award\obj\Debug\Award.dll
+C:\Users\hx-pc\Desktop\LuckyForm\Award\obj\Debug\Award.pdb
+H:\LuckyForm\Award\bin\Debug\Award.dll
+H:\LuckyForm\Award\bin\Debug\Award.pdb
+H:\LuckyForm\Award\obj\Debug\Award.csprojResolveAssemblyReference.cache
+H:\LuckyForm\Award\obj\Debug\Award.dll
+H:\LuckyForm\Award\obj\Debug\Award.pdb
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\Award\bin\Debug\Award.dll
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\Award\bin\Debug\Award.pdb
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csprojResolveAssemblyReference.cache
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csproj.CoreCompileInputs.cache
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.dll
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.pdb
+H:\抽奖2017 (正式使用版)\LuckyForm\Award\bin\Debug\Award.dll
+H:\抽奖2017 (正式使用版)\LuckyForm\Award\bin\Debug\Award.pdb
+H:\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csprojAssemblyReference.cache
+H:\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csproj.CoreCompileInputs.cache
+H:\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.dll
+H:\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\Award\bin\Debug\Award.dll
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\Award\bin\Debug\Award.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csprojAssemblyReference.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csproj.CoreCompileInputs.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.dll
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\Award\obj\Debug\Award.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\Award\bin\Debug\Award.dll
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\Award\bin\Debug\Award.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csprojAssemblyReference.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\Award\obj\Debug\Award.csproj.CoreCompileInputs.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\Award\obj\Debug\Award.dll
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\Award\obj\Debug\Award.pdb

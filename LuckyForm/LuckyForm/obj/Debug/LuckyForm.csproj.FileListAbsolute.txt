@@ -1,0 +1,89 @@
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe.config
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\bin\Debug\LuckyForm.pdb
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csprojResolveAssemblyReference.cache
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Load.resources
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Properties.Resources.resources
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.GenerateResource.Cache
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\obj\Debug\LuckyForm.exe
+d:\documents\我的文档\visual studio 2017\Projects\LuckyForm\LuckyForm\obj\Debug\LuckyForm.pdb
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe.config
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\bin\Debug\LuckyForm.pdb
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csprojResolveAssemblyReference.cache
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Load.resources
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.lucky.resources
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Properties.Resources.resources
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.GenerateResource.Cache
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CoreCompileInputs.cache
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.exe
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\obj\Debug\LuckyForm.pdb
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\bin\Debug\Award.dll
+C:\Users\hx-pc\Desktop\LuckyForm\LuckyForm\bin\Debug\Award.pdb
+H:\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe.config
+H:\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe
+H:\LuckyForm\LuckyForm\bin\Debug\LuckyForm.pdb
+H:\LuckyForm\LuckyForm\bin\Debug\Award.dll
+H:\LuckyForm\LuckyForm\bin\Debug\Award.pdb
+H:\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csprojResolveAssemblyReference.cache
+H:\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Load.resources
+H:\LuckyForm\LuckyForm\obj\Debug\LuckyForm.lucky.resources
+H:\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Properties.Resources.resources
+H:\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.GenerateResource.Cache
+H:\LuckyForm\LuckyForm\obj\Debug\LuckyForm.exe
+H:\LuckyForm\LuckyForm\obj\Debug\LuckyForm.pdb
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe.config
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.pdb
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.dll
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.pdb
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csprojResolveAssemblyReference.cache
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Load.resources
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.lucky.resources
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Properties.Resources.resources
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.GenerateResource.Cache
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CoreCompileInputs.cache
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.exe
+I:\开源项目\VS2017程序\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.pdb
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe.config
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.pdb
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.dll
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.pdb
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csprojAssemblyReference.cache
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Load.resources
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.lucky.resources
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Properties.Resources.resources
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.GenerateResource.cache
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CoreCompileInputs.cache
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CopyComplete
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.exe
+H:\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe.config
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.dll
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csprojAssemblyReference.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Load.resources
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.lucky.resources
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Properties.Resources.resources
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.GenerateResource.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CoreCompileInputs.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CopyComplete
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.exe
+C:\Users\hx-pc\Desktop\2019图片\抽奖2017 (正式使用版)\抽奖2017 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe.config
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.exe
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\LuckyForm.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.dll
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\bin\Debug\Award.pdb
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csprojAssemblyReference.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Load.resources
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.lucky.resources
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.Properties.Resources.resources
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.GenerateResource.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CoreCompileInputs.cache
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.csproj.CopyComplete
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.exe
+C:\Users\hx-pc\Desktop\2019图片\抽奖2019 (正式使用版)\抽奖2019 (正式使用版)\LuckyForm\LuckyForm\obj\Debug\LuckyForm.pdb
